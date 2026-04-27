@@ -1,0 +1,15 @@
+target/
+*.log
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+*.ear
+.factorypath
+.project
+.settings/
+.classpath
+bin/
+scratch/
+test_security.py
